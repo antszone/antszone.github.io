@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-02T00:54:04.140Z</updated>
+  <updated>2017-04-02T00:54:04.026Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,20 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>little sugar dad</title>
-    <link href="http://yoursite.com/2017/03/28/little-sugar/"/>
-    <id>http://yoursite.com/2017/03/28/little-sugar/</id>
-    <published>2017-03-28T02:04:29.447Z</published>
-    <updated>2017-04-02T00:54:04.140Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>水中月是天上月</title>
