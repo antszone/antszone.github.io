@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://taoyuke.com/"/>
   <updated>2017-04-02T01:17:45.697Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://taoyuke.com/</id>
   
   <author>
     <name>Yuke Tao</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Super Daddy Liu</title>
-    <link href="http://yoursite.com/2017/04/02/super-daddy-liu/"/>
-    <id>http://yoursite.com/2017/04/02/super-daddy-liu/</id>
+    <link href="http://taoyuke.com/2017/04/02/super-daddy-liu/"/>
+    <id>http://taoyuke.com/2017/04/02/super-daddy-liu/</id>
     <published>2017-04-02T00:54:48.386Z</published>
     <updated>2017-04-02T01:17:45.697Z</updated>
     
@@ -48,8 +48,8 @@
   
   <entry>
     <title>水中月是天上月</title>
-    <link href="http://yoursite.com/2017/03/25/hello-world/"/>
-    <id>http://yoursite.com/2017/03/25/hello-world/</id>
+    <link href="http://taoyuke.com/2017/03/25/hello-world/"/>
+    <id>http://taoyuke.com/2017/03/25/hello-world/</id>
     <published>2017-03-25T06:01:46.366Z</published>
     <updated>2017-04-02T00:54:04.026Z</updated>
     
