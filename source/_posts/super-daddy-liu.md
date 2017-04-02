@@ -1,5 +1,5 @@
 ---
-title: **Super Daddy Liu☼**
+title: Super Daddy Liu
 ---
 
 #<center>**[月上柳梢头]**</center>
