@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://taoyuke.cn/"/>
-  <updated>2017-04-22T03:31:07.362Z</updated>
+  <updated>2017-09-25T02:52:59.905Z</updated>
   <id>http://taoyuke.cn/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>找呀找工作</title>
+    <link href="http://taoyuke.cn/2017/09/25/find-job/"/>
+    <id>http://taoyuke.cn/2017/09/25/find-job/</id>
+    <published>2017-09-25T02:51:46.205Z</published>
+    <updated>2017-09-25T02:52:59.905Z</updated>
+    
+    <content type="html"><![CDATA[<p><br></p>
+<p><center><strong>vivo</strong></center></p>
+<p><center><strong>美的</strong></center><br><br></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;vivo&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;美的&lt;/strong&gt;&lt;/center&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>小别离</title>
